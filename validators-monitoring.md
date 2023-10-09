@@ -1,7 +1,3 @@
----
-sidebar_label: Validators Monitoring
----
-
 ## Preview
 
 ![Grafana Preview](/img/grafana-preview.png)
