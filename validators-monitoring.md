@@ -65,4 +65,4 @@ Select your Prometheus as Data Source and click **Import**.
 
 At this point, you should be able to monitor your validator node.
 
-![Grafana Preview](/img/docs/grafana-preview.png)
+![Grafana Preview](/img/grafana-preview.png)
