@@ -4,7 +4,7 @@ sidebar_label: Validators Monitoring
 
 ## Preview
 
-![Grafana Preview](/img/docs/grafana-preview.png)
+![Grafana Preview](/zetachain/img/grafana-preview.png)
 
 ## Prerequisites
 
@@ -50,7 +50,7 @@ The default username and password is `admin`.
 
 Add your Prometheus Data Source:
 
-![Grafana Config](/img/docs/grafana-config.png)
+![Grafana Config](/zetachain/img/grafana-config.png)
 
 Click on `Save & test` to test the configuration, if everything is alright you'll see the green message **Data source is working**.
 
@@ -59,7 +59,7 @@ Click on `Save & test` to test the configuration, if everything is alright you'l
 
 Copy and paste the [Grafana Dashboard ID](https://grafana.com/grafana/dashboards/11036) `11036` and click on `Load` to complete importing.
 
-![Grafana Import](/img/docs/grafana-import.png)
+![Grafana Import](/zetachain/img/grafana-import.png)
 
 Select your Prometheus as Data Source and click **Import**.
 
